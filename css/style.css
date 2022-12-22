@@ -68,12 +68,12 @@ img {
     height: 88px;
 }
 
-figcaption,
+p,
 h2 {
     font-size: .7rem;
     text-align: center;
 }
 
-figcaption {
+p {
     padding: 5px 10px;
 }
